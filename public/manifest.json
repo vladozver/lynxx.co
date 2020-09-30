@@ -1,0 +1,21 @@
+{
+  "name": "Lynxx.co",
+  "short_name": "Lynxx.co Test App",
+  "theme_color": "#FF9A00",
+  "background_color": "#000000",
+  "description": "A simply Lynxx.co PWA test app.",
+  "icons": [
+    {
+      "src": "./imgs/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./imgs/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
