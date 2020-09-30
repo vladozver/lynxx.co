@@ -2,7 +2,7 @@
 
 https://test.vladozver.com/
 
-<br>ž
+<br>
 
 **Added vue-fullscreen.**
 
